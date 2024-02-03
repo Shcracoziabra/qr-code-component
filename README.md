@@ -23,7 +23,7 @@ For the QR code component challenge on Frontend Mentor I created a page for mobi
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [here](https://shcraco-qr-code-challenge.netlify.app)
 
 ## My process
 
